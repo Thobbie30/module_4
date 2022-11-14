@@ -1,0 +1,33 @@
+section{
+    font-size: 18px;
+}
+
+.module1{
+    color: green;
+  font-size: 14px;  
+  font-style: italic;
+  font-weight: bold;
+  border: 2px dashed brown;
+  padding: 20px 10px;
+  margin: 10px;
+}
+
+.module2{
+    color: red;
+  font-size: 14px;  
+  font-style: italic;
+  font-weight: bold;
+  border: 3px dotted black;
+  padding: 20px 10px;
+  margin: 10px;
+}
+
+.module3{
+    color: blue;
+  font-size: 14px;  
+  font-style: italic;
+  font-weight: bold;
+  border: 2px double green;
+  padding: 20px 10px;
+  margin: 10px;
+}
